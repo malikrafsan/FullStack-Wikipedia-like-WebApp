@@ -11,6 +11,10 @@
 <header>
     <img src=".assets\wp2044698(2).jpg" alt="banner networking" id="banner">
     <h1 id="judul">WIKI-ARC NETWORKING</h1>
+    <p id="judul">
+        Wiki-ARC merupakan wikipedia-like web app yang dibuat oleh Malik Akbar Hashemi Rafsanjani (16520299) guna memenuhi tugas Day 5 ARC. Wiki-ARC menyediakan tempat untuk menuliskan tulisan tentang Networking, dan dapat diedit oleh siapa saja yang mengakses,
+        selayaknya wikipedia. Web app ini menggunakan mysql sebagai database dan menyediakan fitur CRUD dalam menjalankan fungsinya.
+    </p>
 </header>
 
 <body>
@@ -27,9 +31,10 @@
 
         <br>
         <section hidden id="update-row">
-            <label>Name:</label>
-            <input type="text" id="update-name-input">
-            <button id="update-row-btn">Update</button>
+            <label>Edit tulisan: </label>
+
+            <br><textarea name="paragraph_text" cols="100" rows="10" id="update-name-input"></textarea>
+            <br><button id="update-row-btn">Update</button>
         </section>
 
         <div>
@@ -40,19 +45,7 @@
             <br><textarea name="paragraph_text" cols="100" rows="10" id="name-input"></textarea>
             <br><button id="add-name-btn">Tambahkan</button>
         </div>
-
-        <br>
-
     </main>
-    <footer>
-        <div id="open">
-            <button id="info" onclick="open_letter()">Informasi Tugas</button>
-        </div>
-        <div id="close">
-            <h2>Malik Akbar Hashemi Rafsanjani</h2>
-            <h2>16520299</h2>
-        </div>
-    </footer>
     <script src="index.js"></script>
 </body>
 

@@ -8,7 +8,7 @@ Prekondisi:
   * Telah menginstall Git
 
 Step:
-1. Start MySQL pada XAMPP
+1. Start Apache dan MySQL pada XAMPP
 2. Buat folder baru dan buka folder tersebut
 3. Klik kanan dan pilih Git Bash here
 4. Clone repository

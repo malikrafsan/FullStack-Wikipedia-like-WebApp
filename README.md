@@ -3,9 +3,9 @@ Wikipedia-like web app yang minimalis dengan semua orang dapat mengedit tulisan 
 
 # How to Install and Run Web App
 Prekondisi:
-	* Telah mengintsall NodeJS
-	* Telah menginstall XAMPP
-	* Telah menginstall Git
+  * Telah mengintsall NodeJS
+  * Telah menginstall XAMPP
+  * Telah menginstall Git
 
 Step:
 1. Start MySQL pada XAMPP

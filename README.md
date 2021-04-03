@@ -34,6 +34,7 @@ node createTable.js
 ```bash
 npx nodemon app
 ```
+9. Buka localhost:5000 pada browser dan web app telah dijalankan
 
 # Fiture
   * Create -> Menambahkan tulisan pada Wiki-ARC

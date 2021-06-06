@@ -18,14 +18,14 @@ Prekondisi:
 Langkah-langkah:
 1. Start Apache dan MySQL pada XAMPP
 2. Buat folder baru dan buka folder tersebut
-3. Klik kanan dan pilih Git Bash here
-4. Clone repository
+3. Buka terminal shell (bash)
+4. Clone repository ini
     ```bash
-    git clone https://github.com/malikrafsan/TugasDay5-ARC.git
+    git clone https://github.com/malikrafsan/FullStack-Wikipedia-like-WebApp.git
     ```
-5. Arahkan pada folder server
+5. Change directory ke folder server
     ```bash
-    cd TugasDay5-ARC/server
+    cd FullStack-Wikipedia-like-WebApp/server
     ```
 6. Install modul yang diperlukan
     ```bash

@@ -7,7 +7,7 @@
 - [Author](#author)
 ---
 ## Deskripsi
-- Wiki-ARC merupakan Wikipedia-like web app yang minimalis yang dibuat dengan menggunakan framework NodeJS. Program ini mengusung konsep di mana semua orang dapat membaca, menulis, mengedit, dan menghapus tulisan di dalamnya, sehingga mengimplementasikan seluruh fungsionalitas CRUD. Program ini juga menyediakan tab pencarian untuk mencari tulisan yang ada pada program ini. Program ini ditujukan untuk menampung tulisan mengenai "Networking", layaknya wikipedia. Web app ini menggunakan MySQL sebagai  database management system-nya. 
+- Wiki-ARC merupakan Wikipedia-like web app yang minimalis yang dibuat dengan menggunakan framework Express. Program ini mengusung konsep di mana semua orang dapat membaca, menulis, mengedit, dan menghapus tulisan di dalamnya, sehingga mengimplementasikan seluruh fungsionalitas CRUD. Program ini juga menyediakan tab pencarian untuk mencari tulisan yang ada pada program ini. Program ini ditujukan untuk menampung tulisan mengenai "Networking", layaknya wikipedia. Web app ini menggunakan MySQL sebagai  database management system-nya. 
 ---
 ## How to Install and Run Web App
 Prekondisi:
